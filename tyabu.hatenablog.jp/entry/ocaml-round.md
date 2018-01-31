@@ -5,7 +5,7 @@ Category:
 - 浮動小数点数
 - 丸め演算
 Date: 2017-04-19T00:00:00+09:00
-URL: http://tyabu.hatenablog.jp/entry/2017/04/19/000000
+URL: http://tyabu.hatenablog.jp/entry/ocaml-round
 EditURL: https://blog.hatena.ne.jp/tyabu12/tyabu.hatenablog.jp/atom/entry/8599973812323614267
 ---
 
