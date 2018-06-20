@@ -7,4 +7,4 @@ before_script:
   - ./gen_blogsync_yaml.sh
 
 script:
-  - make push
+  - ./push_all_entries.sh
