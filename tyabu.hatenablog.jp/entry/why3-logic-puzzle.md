@@ -6,7 +6,7 @@ Category:
 - 証明
 - SMTソルバー
 Date: 2018-04-07T23:49:36+09:00
-URL: https://tyabu.hatenablog.jp/entry/2018/04/07/234936
+URL: https://tyabu.hatenablog.jp/entry/why3-logic-puzzle
 EditURL: https://blog.hatena.ne.jp/tyabu12/tyabu.hatenablog.jp/atom/entry/17391345971633125887
 ---
 
