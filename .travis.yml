@@ -4,11 +4,7 @@ install:
   - go get github.com/motemen/blogsync
 
 before_script:
-  - echo "${BLOG_URL}:" > blogsync.yaml
-  - echo "  username:${USER_NAME}" >> blogsync.yaml
-  - echo "  password:${API_KEY}" >> blogsync.yaml
-  - echo "default:" >> blogsync.yaml
-  - echo "  local_root:`pwd`" >> blogsync.yaml
+  - ./gen_blogsync_yaml.sh
 
 script:
   - make push
