@@ -4,6 +4,10 @@ BLOG='tyabu.hatenablog.jp'
 pull:
 	blogsync pull $(BLOG)
 
-.PHONY: push
-push:
-	blogsync push $(BLOG)
+.PHONY: gen_config
+gen_config:
+	./gen_blogsync_yaml.sh
+
+.PHONY: push_all
+push_all:
+	./push_all_entries.sh
