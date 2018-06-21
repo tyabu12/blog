@@ -1,7 +1,7 @@
 ---
 Title: Presentation as Code
 Date: 2018-05-08T20:36:29+09:00
-URL: https://tyabu.hatenablog.jp/entry/2018/05/08/203629
+URL: https://tyabu.hatenablog.jp/entry/presentation-as-code
 EditURL: https://blog.hatena.ne.jp/tyabu12/tyabu.hatenablog.jp/atom/entry/17391345971642685662
 Draft: true
 ---
