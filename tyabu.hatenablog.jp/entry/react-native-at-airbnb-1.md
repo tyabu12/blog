@@ -10,6 +10,7 @@ Category:
 Date: 2018-06-20T19:46:00+09:00
 URL: https://tyabu.hatenablog.jp/entry/react-native-at-airbnb-1
 EditURL: https://blog.hatena.ne.jp/tyabu12/tyabu.hatenablog.jp/atom/entry/17391345971655926755
+Draft: true
 ---
 
 [:contents]
@@ -19,7 +20,13 @@ React Native at Airbnb [1/5] 和訳
 
 この記事は [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c) の勝手な日本語訳です。
 
-間違いを見つけた方は、お手数ですがコメントもしくは [GitHub からプルリク](https://github.com/tyabu12/blog/edit/master/tyabu.hatenablog.jp/entry/react-native-at-airbnb-1.md) いただけると修正します。
+[https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c:embed:cite]
+
+~~間違いを見つけた方は、お手数ですがコメントもしくは [GitHub からプルリク](https://github.com/tyabu12/blog/edit/master/tyabu.hatenablog.jp/entry/react-native-at-airbnb-1.md) いただけると修正します。~~
+~~他の連載記事も和訳する予定です。~~
+
+わかりやすい翻訳をみつけたので、こちらをどうぞ。
+[https://github.com/react-native-jp/react-native-at-airbnb-jp-translation:embed:cite]
 
 ちょうど少し前に React Native に手を出した (痛い目に遭った) 経験があったのと、Airbnb のエンジニアによる面白そうな記事を Twitter で見かけたので、和訳してみました。
 
@@ -28,8 +35,6 @@ React Native at Airbnb [1/5] 和訳
 [https://twitter.com/rejasupotaro/status/1009127703902072832:embed#すごい、5つのパートに渡ってRNをやめた経緯が書かれている / React Native at Airbnb – Airbnb Engineering & Data Science – Medium https://t.co/XAYXX0xIFW]
 
 [https://twitter.com/atsushieno/status/1009143109475655680:embed#airbnbアプリ、かなりネイティブの機能を要求されるようになってきているし、React Nativeからフルネイティブに切り替える必要が出てきたのはそりゃまあ必然だろうって思う。もともとWebしかなかったWeb中心の企業にはRN… https://t.co/mbzifdOWaX]
-
-他の連載記事も和訳する予定です。
 
 ---
 
