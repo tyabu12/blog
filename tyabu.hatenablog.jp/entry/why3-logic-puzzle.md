@@ -5,6 +5,7 @@ Category:
 - 論理パズル
 - 証明
 - SMTソルバー
+- プログラム検証
 Date: 2018-04-07T23:49:36+09:00
 URL: https://tyabu.hatenablog.jp/entry/why3-logic-puzzle
 EditURL: https://blog.hatena.ne.jp/tyabu12/tyabu.hatenablog.jp/atom/entry/17391345971633125887
